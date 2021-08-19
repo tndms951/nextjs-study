@@ -22,3 +22,5 @@ function AddressIcon() {
     </svg>
   );
 }
+
+export default AddressIcon;
